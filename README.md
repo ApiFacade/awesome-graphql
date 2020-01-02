@@ -1,6 +1,6 @@
 # Awesome GraphQL
 
-### We present here a list of [awesome GraphQL resources](https://apifacade.com/awesome-graphql). We present here GraphQL IDEs, clients, servers, tools, tutorials and other awesome lists.
+### We present here a list of awesome GraphQL resources. We present here GraphQL IDEs, clients, servers, tools, tutorials and other awesome lists.
 
 ### IDE/UI Clients
 
@@ -78,4 +78,4 @@
 - Hasura.io Realtime GraphQL on Postgres - https://hasura.io/
 - PostGraphile - https://www.graphile.org/postgraphile/
 - Realtime applications with GraphQL - https://aws.amazon.com/appsync/
-
+- Marketplace - https://apifacade.com/awesome-graphql
