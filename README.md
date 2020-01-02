@@ -1,14 +1,4 @@
 # awesome-graphql
-Awesome GraphQL - Awesome GraphQL - IDEs, clients, servers, tools, tutorials and other awesome lists
-
-
----
-title: Awesome GraphQL
-author: ApiFacade Team
-date: 2020-01-02
-hero: ./images/hero2.jpg
-excerpt: We present here a list of awesome GraphQL resources. We present here GraphQL IDEs, clients, servers, tools, tutorials and other awesome list.
----
 
 ### We present here a list of awesome GraphQL resources. We present here GraphQL IDEs, clients, servers, tools, tutorials and other awesome lists.
 
