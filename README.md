@@ -78,4 +78,4 @@
 - Hasura.io Realtime GraphQL on Postgres - https://hasura.io/
 - PostGraphile - https://www.graphile.org/postgraphile/
 - Realtime applications with GraphQL - https://aws.amazon.com/appsync/
-- Marketplace - https://apifacade.com/awesome-graphql
+- Marketplace - https://apifacade.com
